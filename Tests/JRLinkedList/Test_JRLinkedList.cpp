@@ -44,22 +44,12 @@ TEST_F(Test_JRLinkedList, LastElementTest)
 
 TEST_F(Test_JRLinkedList, RemoveFirstElement)
 {
-    int lal = second;
-    try {
-        mockList.remove(0);
-    }
-    catch(std::out_of_range exception) {
-        std::cout << "EXCEPTION OCURRED: " << exception.what() << std::endl;
-        lal = -10;
-    }
-    catch(...) {
-        std::cout << "Unknown exception ocurred" << std::endl;
-        lal = -20;
-    }
-    ASSERT_EQ(mockList.get(0), lal);
+    mockList.remove(0);
+    ASSERT_EQ(mockList.get(0), second);
 }
 
+/*
 TEST_F(Test_JRLinkedList, name5)
 {
-    ASSERT_EQ("", "10");
-}
+    ASSERT_EQ(mockList.get(0), second);
+}*/

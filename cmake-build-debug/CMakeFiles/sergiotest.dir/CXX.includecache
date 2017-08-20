@@ -482,6 +482,24 @@ string
 JRLinkedListNode.cpp
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedListNode.cpp
 
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRStack/Stack.cpp
+stdexcept
+-
+Stack.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRStack/Stack.h
+iostream
+-
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRStack/Stack.h
+StackNode.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRStack/StackNode.h
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRStack/StackNode.cpp
+StackNode.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRStack/StackNode.h
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRStack/StackNode.h
+
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/JRLinkedList/Test_JRLinkedList.cpp
 gmock/gmock.h
 -
@@ -489,6 +507,14 @@ gtest/gtest.h
 -
 ../../DataStructures/JRLinkedList/JRLinkedList.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedList.h
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/JRStack/Test_Stack.cpp
+gmock/gmock.h
+-
+gtest/gtest.h
+-
+../../DataStructures/JRStack/Stack.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRStack/Stack.h
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/solutions1.cpp
 string
@@ -509,6 +535,8 @@ cracking_code_interview/solutions1.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/solutions1.h
 DataStructures/JRLinkedList/JRLinkedList.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedList.h
+DataStructures/JRStack/Stack.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRStack/Stack.h
 gtest/gtest.h
 -
 gmock/gmock.h

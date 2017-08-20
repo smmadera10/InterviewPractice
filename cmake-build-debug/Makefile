@@ -219,6 +219,114 @@ gtest/fast:
 	$(MAKE) -f lib/googletest/googlemock/gtest/CMakeFiles/gtest.dir/build.make lib/googletest/googlemock/gtest/CMakeFiles/gtest.dir/build
 .PHONY : gtest/fast
 
+DataStructures/JRQueue/Queue.o: DataStructures/JRQueue/Queue.cpp.o
+
+.PHONY : DataStructures/JRQueue/Queue.o
+
+# target to build an object file
+DataStructures/JRQueue/Queue.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRQueue/Queue.cpp.o
+.PHONY : DataStructures/JRQueue/Queue.cpp.o
+
+DataStructures/JRQueue/Queue.i: DataStructures/JRQueue/Queue.cpp.i
+
+.PHONY : DataStructures/JRQueue/Queue.i
+
+# target to preprocess a source file
+DataStructures/JRQueue/Queue.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRQueue/Queue.cpp.i
+.PHONY : DataStructures/JRQueue/Queue.cpp.i
+
+DataStructures/JRQueue/Queue.s: DataStructures/JRQueue/Queue.cpp.s
+
+.PHONY : DataStructures/JRQueue/Queue.s
+
+# target to generate assembly for a file
+DataStructures/JRQueue/Queue.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRQueue/Queue.cpp.s
+.PHONY : DataStructures/JRQueue/Queue.cpp.s
+
+DataStructures/JRQueue/QueueNode.o: DataStructures/JRQueue/QueueNode.cpp.o
+
+.PHONY : DataStructures/JRQueue/QueueNode.o
+
+# target to build an object file
+DataStructures/JRQueue/QueueNode.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRQueue/QueueNode.cpp.o
+.PHONY : DataStructures/JRQueue/QueueNode.cpp.o
+
+DataStructures/JRQueue/QueueNode.i: DataStructures/JRQueue/QueueNode.cpp.i
+
+.PHONY : DataStructures/JRQueue/QueueNode.i
+
+# target to preprocess a source file
+DataStructures/JRQueue/QueueNode.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRQueue/QueueNode.cpp.i
+.PHONY : DataStructures/JRQueue/QueueNode.cpp.i
+
+DataStructures/JRQueue/QueueNode.s: DataStructures/JRQueue/QueueNode.cpp.s
+
+.PHONY : DataStructures/JRQueue/QueueNode.s
+
+# target to generate assembly for a file
+DataStructures/JRQueue/QueueNode.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRQueue/QueueNode.cpp.s
+.PHONY : DataStructures/JRQueue/QueueNode.cpp.s
+
+DataStructures/JRStack/Stack.o: DataStructures/JRStack/Stack.cpp.o
+
+.PHONY : DataStructures/JRStack/Stack.o
+
+# target to build an object file
+DataStructures/JRStack/Stack.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRStack/Stack.cpp.o
+.PHONY : DataStructures/JRStack/Stack.cpp.o
+
+DataStructures/JRStack/Stack.i: DataStructures/JRStack/Stack.cpp.i
+
+.PHONY : DataStructures/JRStack/Stack.i
+
+# target to preprocess a source file
+DataStructures/JRStack/Stack.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRStack/Stack.cpp.i
+.PHONY : DataStructures/JRStack/Stack.cpp.i
+
+DataStructures/JRStack/Stack.s: DataStructures/JRStack/Stack.cpp.s
+
+.PHONY : DataStructures/JRStack/Stack.s
+
+# target to generate assembly for a file
+DataStructures/JRStack/Stack.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRStack/Stack.cpp.s
+.PHONY : DataStructures/JRStack/Stack.cpp.s
+
+DataStructures/JRStack/StackNode.o: DataStructures/JRStack/StackNode.cpp.o
+
+.PHONY : DataStructures/JRStack/StackNode.o
+
+# target to build an object file
+DataStructures/JRStack/StackNode.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRStack/StackNode.cpp.o
+.PHONY : DataStructures/JRStack/StackNode.cpp.o
+
+DataStructures/JRStack/StackNode.i: DataStructures/JRStack/StackNode.cpp.i
+
+.PHONY : DataStructures/JRStack/StackNode.i
+
+# target to preprocess a source file
+DataStructures/JRStack/StackNode.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRStack/StackNode.cpp.i
+.PHONY : DataStructures/JRStack/StackNode.cpp.i
+
+DataStructures/JRStack/StackNode.s: DataStructures/JRStack/StackNode.cpp.s
+
+.PHONY : DataStructures/JRStack/StackNode.s
+
+# target to generate assembly for a file
+DataStructures/JRStack/StackNode.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRStack/StackNode.cpp.s
+.PHONY : DataStructures/JRStack/StackNode.cpp.s
+
 Tests/JRLinkedList/Test_JRLinkedList.o: Tests/JRLinkedList/Test_JRLinkedList.cpp.o
 
 .PHONY : Tests/JRLinkedList/Test_JRLinkedList.o
@@ -245,6 +353,33 @@ Tests/JRLinkedList/Test_JRLinkedList.s: Tests/JRLinkedList/Test_JRLinkedList.cpp
 Tests/JRLinkedList/Test_JRLinkedList.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.s
 .PHONY : Tests/JRLinkedList/Test_JRLinkedList.cpp.s
+
+Tests/JRStack/Test_Stack.o: Tests/JRStack/Test_Stack.cpp.o
+
+.PHONY : Tests/JRStack/Test_Stack.o
+
+# target to build an object file
+Tests/JRStack/Test_Stack.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.o
+.PHONY : Tests/JRStack/Test_Stack.cpp.o
+
+Tests/JRStack/Test_Stack.i: Tests/JRStack/Test_Stack.cpp.i
+
+.PHONY : Tests/JRStack/Test_Stack.i
+
+# target to preprocess a source file
+Tests/JRStack/Test_Stack.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.i
+.PHONY : Tests/JRStack/Test_Stack.cpp.i
+
+Tests/JRStack/Test_Stack.s: Tests/JRStack/Test_Stack.cpp.s
+
+.PHONY : Tests/JRStack/Test_Stack.s
+
+# target to generate assembly for a file
+Tests/JRStack/Test_Stack.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.s
+.PHONY : Tests/JRStack/Test_Stack.cpp.s
 
 cracking_code_interview/solutions1.o: cracking_code_interview/solutions1.cpp.o
 
@@ -317,9 +452,24 @@ help:
 	@echo "... gmock"
 	@echo "... gtest_main"
 	@echo "... gtest"
+	@echo "... DataStructures/JRQueue/Queue.o"
+	@echo "... DataStructures/JRQueue/Queue.i"
+	@echo "... DataStructures/JRQueue/Queue.s"
+	@echo "... DataStructures/JRQueue/QueueNode.o"
+	@echo "... DataStructures/JRQueue/QueueNode.i"
+	@echo "... DataStructures/JRQueue/QueueNode.s"
+	@echo "... DataStructures/JRStack/Stack.o"
+	@echo "... DataStructures/JRStack/Stack.i"
+	@echo "... DataStructures/JRStack/Stack.s"
+	@echo "... DataStructures/JRStack/StackNode.o"
+	@echo "... DataStructures/JRStack/StackNode.i"
+	@echo "... DataStructures/JRStack/StackNode.s"
 	@echo "... Tests/JRLinkedList/Test_JRLinkedList.o"
 	@echo "... Tests/JRLinkedList/Test_JRLinkedList.i"
 	@echo "... Tests/JRLinkedList/Test_JRLinkedList.s"
+	@echo "... Tests/JRStack/Test_Stack.o"
+	@echo "... Tests/JRStack/Test_Stack.i"
+	@echo "... Tests/JRStack/Test_Stack.s"
 	@echo "... cracking_code_interview/solutions1.o"
 	@echo "... cracking_code_interview/solutions1.i"
 	@echo "... cracking_code_interview/solutions1.s"
